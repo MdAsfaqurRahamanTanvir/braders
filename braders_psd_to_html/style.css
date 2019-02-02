@@ -1,0 +1,100 @@
+.header{
+    margin-bottom: 12px;
+}
+
+.section1{
+    min-height: 150px;
+    background-color: #4d4948;
+        padding-top: 25px;
+    color: white;
+}
+
+.nav_section nav a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.info_section{
+    width: 60%;
+    float: left;
+   margin-bottom: 20px;
+        margin-top: 50px
+}
+
+.women{
+    width: 100%;
+}
+.women_pic{
+    float: left;
+    width: 40%;
+    text-align: center;
+}
+
+.women_info{
+    float: right;
+    width:50%;
+}
+
+.information{
+    width: 60%;
+    float: left;
+}
+
+
+.listining{
+    width: 60%;
+    float: left;
+}
+
+
+.listining_details{
+    background-color: #fbeabc;
+    padding: 15px;
+    color: black;
+}
+
+.dog_{
+    width: 20%;
+    float: left;
+}
+
+.dog_details{
+    width: 30%;
+    float: right;
+    margin-right: 285px;
+}
+
+.listining_para{
+    margin-top: 115px;
+}
+
+
+.recent_news{
+    width: 30%;
+    float: right;
+        margin-top: 50px
+}
+
+.social{
+    width: 30%;
+    float: right;
+    margin-top: 25px;
+}
+
+
+.dog_slider{
+    
+    width: 60%;
+    float: left;
+}
+
+.subs{
+     width: 30%;
+    float: right;
+        margin-top: 20px
+}
+
+.fotter_img{
+    margin-top: 30px;
+}
